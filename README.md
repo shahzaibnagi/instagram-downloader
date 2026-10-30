@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b10,100:1f6feb&height=150&section=header&text=instagram-downloader&fontSize=32&fontColor=eaf0f7&animation=fadeIn&desc=Reels%20downloader%20%C2%B7%20EN%20%2B%20UR&descAlignY=76&descSize=14" alt="instagram-downloader" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=34D399&center=true&vCenter=true&width=560&lines=Config-driven%20API%20base;Validated%20links%2C%20clean%20errors" alt="tagline" />
+
+</div>
+
 # Instagram Downloader
 
 A two-file interface for pulling reels and videos: paste a link, preview it, save the file. English and Urdu labels.
