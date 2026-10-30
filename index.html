@@ -4,6 +4,11 @@
   <meta charset="UTF-8">
   <title>Instagram Video Downloader</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Download Instagram reels and videos in HD. Paste a link, preview it and save the file.">
+  <meta name="theme-color" content="#0f172a">
+  <meta property="og:title" content="Instagram Video Downloader">
+  <meta property="og:description" content="Paste an Instagram reel or video link and download it in HD.">
+  <meta property="og:type" content="website">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -15,10 +20,10 @@
 
 <div class="container">
   <div class="card">
-    <h1 id="title">Instagram Downloader By Shahzaib Tech</h1>
-    <p id="subtitle">Download reels & videos in HD</p>
+    <h1 id="title">Instagram Downloader</h1>
+    <p id="subtitle">Download reels &amp; videos in HD</p>
 
-    <input id="url" type="text" placeholder="Paste Instagram link here">
+    <input id="url" type="url" placeholder="Paste Instagram link here" autocomplete="off">
     <button id="fetchBtn" onclick="fetchVideo()">Get Video</button>
 
     <div id="loader"></div>
@@ -29,9 +34,10 @@
     </div>
   </div>
 
-  <footer>© 2025 <b>Shahzaib Tech</b></footer>
+  <footer>© 2026 <b>Shahzaib Tech</b></footer>
 </div>
 
+<script src="config.js"></script>
 <script src="script.js"></script>
 </body>
 </html>
